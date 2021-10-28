@@ -1,7 +1,7 @@
 
 ## HTML Tags
 
-* ordered, unordered
+* ordered, unordered lists
 * links
 * images
 * inline, block elements
