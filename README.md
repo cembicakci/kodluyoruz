@@ -1,3 +1,1 @@
-# HTML Project
-
-* Semantic HTML structure
+## KODLUYORUZ
