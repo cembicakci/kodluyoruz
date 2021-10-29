@@ -1,3 +1,3 @@
-#HTML Project
+# HTML Project
 
 * Semantic HTML structure
