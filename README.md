@@ -1,2 +1,3 @@
-# kodluyoruz
-Kodluyoruz
+#HTML Project
+
+* Semantic HTML structure
